@@ -1,0 +1,75 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Lot 001-Renwood",
+    "description": "Accusystems 'MMTJ-3' MiterDoor Machine,Year 2006",
+    "price":"$ 5,101.00 USD"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Lot 002 -Renwood",
+    "description": "Unique '3450' MiterDoor Machine ,Year 2014"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Lot 003-Renwood",
+    "description": "CR Onsurd'3025' Invented Pin Router,Year 2006"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Lot 004-Renwood",
+    "description": "JLT tailor '79x-5m' Rotary 5d station MiterDoor clamp,Year 2005 "
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Lot 005-Renwood",
+    "description": "Accusystems 'MMTJ-3' MiterDoor Machine ,Year 2004"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "Lot 006-Renwood",
+    "body": ""
+  },
+  {
+    "userId": 1,
+    "id": 7,
+    "title": "Lot 007-Renwood",
+    "description": "Accusystems 'MMTJ-3' MiterDoor Machine ,Year 2006"
+  },
+  {
+    "userId": 1,
+    "id": 8,
+    "title": "Lot 008-Renwood",
+    "description": "JLT tailor 'MMTJ-3 MiterClamp Machine ,Year 2003 "
+  },
+  {
+    "userId": 1,
+    "id": 9,
+    "title": "Lot 009-Renwood",
+    "description": "JLT tailor 'MMTJ-3 MiterClamp Machine ,Year 2003 "
+  },
+  {
+    "userId": 1,
+    "id": 10,
+    "title": "Lot 010-Renwood",
+    "description": "Accusystems 'MMTJ-3' MiterDoo"
+  },
+  {
+    "userId": 2,
+    "id": 11,
+    "title": "Lot 011-Renwood",
+    "description": "JLT tailor '79x-5m' Rotary 5d station"
+  },
+  {
+    "userId": 2,
+    "id": 12,
+    "title": "Lot 012-Renwood",
+    "description": "JLT tailor Rotary 5d station"
+  }
+]
